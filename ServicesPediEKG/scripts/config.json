@@ -1,0 +1,53 @@
+﻿{
+	"algorithmImageRoute":"public/images/References/",
+	"algorithmImageUrl":"/images/References/",
+	"cutOffValueForRandomEkg": 0.7,
+	"dbUrl": "mongodb://192.168.185.211:27017/pediecg_development",
+	"ekgTempLocation":"public/images/temp/",
+	"ekgImage":"public/images/Ekgs",
+	"ekgImageRoute":"public/images/Ekgs/",
+	"ekgImageUrl":"/images/Ekgs/",
+	"falseValue": false,
+	"feedbackSubject": "EKG",
+	"gateway": "gateway.sandbox.push.apple.com",
+	"passwordLength":"123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+	"readNoOfRecords": 5,
+	"randomPasswordLength": 7,
+	"randomPasswordCharacters": "0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ",
+	"TempFolder":"public/images/temp/",
+	"userImage":"public/images/Users",
+	"userImageRoute":"public/images/Users/",
+	"userImageUrl":"/images/Users/",
+   	
+   	"settingUserName":"Sachin",
+   	"settingtoEmailAddress":"sachin@daffodilsw.com",
+   	"settingPassword":"46a5586752e1e87007d06d5870515976",
+   	"settingServer":"Gmail",
+
+   	"isTest":1,
+
+   	"superUserPassword":"8c8493387d319e9e9af3a138c72f6382",
+   	"superUserFirstName":"Pedi",
+   	"superUserLastName":"Ecg",
+   	"superUserEmail":"ekg@daffodilsw.com",
+
+	"port" : 9912,
+	"url":"http://198.58.112.64:9912",
+	"badRequest":400,
+	"notFound":404,
+	"unauthorized" : 401,
+	"serverError":500,
+	"ok":200,
+	"conflict" : 409,
+	"apple":2,
+	"android":1,
+	"appleCert": "cert.pem",
+	"appleKey": "KEY.pem",
+	"applePassphrase": "hrhk@1234",
+	"appleGateway": "gateway.push.apple.com",
+
+	"androidApiKey":"AIzaSyBXQowX0W-qXU3jz1_dF8tti8HaMaJGcOM",
+	"encryptionKey":"pediecg",
+	"appkey":"%PedIEcG4AppKeY#"
+
+}

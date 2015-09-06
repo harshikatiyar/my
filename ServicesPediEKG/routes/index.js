@@ -1,0 +1,9 @@
+﻿exports.users = require('./users');
+exports.topics = require('./topics');
+exports.masterdata = require('./masterdata');
+exports.feedbacks = require('./feedbacks');
+exports.ekgs = require('./ekgs');
+exports.ekgsTest = require('./ekgsTest');
+exports.notification = require('./notification');
+exports.groups = require('./groups');
+exports.tags = require('./tags');

@@ -1,0 +1,26 @@
+{
+"list" : [
+	{
+		"type" : 0,
+		"email" : {
+			"templateUrl" : "./templates/welcome.html",
+			"subject" : "Welcome"
+		}
+	},
+	{},
+	{
+		"type" : 2,
+		"email" : {
+			"templateUrl" : "./templates/invite.html",
+			"subject" : "Invite"
+		}
+	},
+	{
+		"type" : 3,
+		"email" : {
+			"templateUrl" : "./templates/inviteAccept.html",
+			"subject" : "Invitation accepted"
+		}
+	}
+]
+}

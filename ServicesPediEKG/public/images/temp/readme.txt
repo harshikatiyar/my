@@ -1,0 +1,1 @@
+Temp folder is used to upload images temporarily by upload image service.
